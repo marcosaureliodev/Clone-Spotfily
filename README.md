@@ -1,5 +1,5 @@
 
-<h1 aling="center"> Re-clone Spotfily</h1>
+<h1 aling="center"> Re-design Spotfily</h1>
 
 <p>
 Foi feito um reclone da Homepage do site Spotfily, com o objetivo de está aperfeiçoando meu conhecimento em html,css,jquary e javascript. Nesta criação foi usado o CDN bootstrap 4.1.3.
